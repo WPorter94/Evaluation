@@ -5,7 +5,7 @@ Intro-
   The code for PageRank can be found here https://github.com/WPorter94/Pagerank.
   
 BreakDown-
-	Each measure is found in its own function. Each measure si self contained excpept for nDCG which uses a helper
+	Each measure is found in its own function. Each measure is self contained excpept for nDCG which uses a helper
 	function(idealNDCG) and Fallout which calls recall and precision functions within it.
  
 Description-
